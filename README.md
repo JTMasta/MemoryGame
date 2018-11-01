@@ -3,6 +3,7 @@ Friendly memory game built on HTML5, CSS3, vanilla Javascript and DOM manipulati
 
 
 ![alt text][logo]
+
 [logo]: https://github.com/jtmasta/MemoryGame/raw/master/images/memorygame.png "Logo Memory Game"
 
 ## Table of Contents
